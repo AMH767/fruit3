@@ -1,0 +1,1312 @@
+Uri: https://amh767.github.io/fruiit/
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\index.htm
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/404
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\404.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/about
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\about.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/bootstrap-4.5.3.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\bootstrap-4.5.3.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/flaticon.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\flaticon.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/fontawesome-5.14.0.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\fontawesome-5.14.0.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/nice-select.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\nice-select.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/slick.min.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/css/style.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\css\style.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/flaticon.eot?954b58c9f48c7f681e89ca525a59a432
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/flaticon.svg?954b58c9f48c7f681e89ca525a59a432
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/flaticon.ttf?954b58c9f48c7f681e89ca525a59a432
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/flaticon.woff2?954b58c9f48c7f681e89ca525a59a432
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://amh767.github.io/fruiit/assets/fonts/flaticon.woff?954b58c9f48c7f681e89ca525a59a432
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://amh767.github.io/fruiit/assets/images/404.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\404.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-bg-shape.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-bg-shape.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-left-over.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-left-over.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-left.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-left.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-page-left.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-page-left.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-page.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-page.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/about-three.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\about-three.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/arrow.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\arrow.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/about/who-we-are.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\about\who-we-are.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/background/client-top.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\background\client-top.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/background/cta-widget-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\background\cta-widget-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/background/special-offer-bg.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\background\special-offer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/banner/banner.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\banner\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category5.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category5.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/category/category6.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\category\category6.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo5.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo5.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/client-logo/client-logo6.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\client-logo\client-logo6.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/contact/contact-right-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\contact\contact-right-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/contact/contact-right.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\contact\contact-right.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/contact/icon1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\contact\icon1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/contact/icon2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\contact\icon2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/contact/icon3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\contact\icon3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/features/feature-bg.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\features\feature-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/features/feature1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\features\feature1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/features/feature2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\features\feature2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/features/feature3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\features\feature3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/gallery1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\gallery1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/gallery2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\gallery2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/gallery3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\gallery3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/gallery4.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\gallery4.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/portfolio-details.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\portfolio-details.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/portfolio-next.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\portfolio-next.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/gellery/portfolio-prev.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\gellery\portfolio-prev.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/logos/logo-white.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\logos\logo-white.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-details.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard4.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard4.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard5.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard5.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard6.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard6.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard7.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard7.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/blog-standard8.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\blog-standard8.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news-slider1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news-slider1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news-slider2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news-slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news-widget1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news-widget1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news-widget2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news-widget2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news-widget3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news-widget3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news4.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news4.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news5.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news5.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news6.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news6.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news7.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news7.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news8.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news8.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/news9.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\news9.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/next-post.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\next-post.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/news/prev-post.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\news\prev-post.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/offers/offer-banner-bg1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\offers\offer-banner-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/offers/offer-banner-bg2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\offers\offer-banner-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/offers/offer-banner-bg3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\offers\offer-banner-bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/offers/special-offer-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\offers\special-offer-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/offers/special-offer-left.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\offers\special-offer-left.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/preloader.gif
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/preview1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\preview1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/preview2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\preview2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/preview3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\preview3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/preview4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\preview4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product10.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product10.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product11.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product11.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product12.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product12.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product5.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product5.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product6.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product6.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product7.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product7.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product8.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product8.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/product9.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\product9.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/review-author1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\review-author1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/review-author2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\review-author2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/products/review-author3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\products\review-author3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/fb-author1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\fb-author1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/feedback-author-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\feedback-author-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/feedback-author1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\feedback-author1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/feedback-author2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\feedback-author2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/feedback-right.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\feedback-right.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/reviews/feedback-right.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\reviews\feedback-right.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/icon1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\icon1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/icon2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\icon2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/icon3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\icon3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/icon4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\icon4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/offer.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\offer.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/service-center-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\service-center-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/service-details1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\service-details1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/service-details2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\service-details2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/what-we-provide-2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\what-we-provide-2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/services/what-we-provide.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\services\what-we-provide.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/about-page.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\about-page.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/about-shape1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\about-shape1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/about-shape2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\about-shape2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/about-three.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\about-three.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape5.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape5.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/cl-shape6.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\cl-shape6.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/contact-leafs.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\contact-leafs.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/contact-shape.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\contact-shape.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/faq-shape1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\faq-shape1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/faq-shape2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\faq-shape2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/faq-shape3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\faq-shape3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/faq-shape4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\faq-shape4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/feedback-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\feedback-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/leaf-1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\leaf-1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/leaf-2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\leaf-2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/leaf-three.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\leaf-three.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/litchi.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\litchi.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/onion.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\onion.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/organic.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\organic.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/product-shape1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\product-shape1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/product-shape2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\product-shape2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/pumpkin.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\pumpkin.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/special-offer1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\special-offer1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/special-offer2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\special-offer2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/two-lear.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\two-lear.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/wave-white.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\wave-white.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/wave.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\wave.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/who-we-are-1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\who-we-are-1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/ww-provide1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\ww-provide1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/ww-provide2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\ww-provide2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/ww-provide3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\ww-provide3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/www-shape1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\www-shape1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/shapes/www-shape2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\shapes\www-shape2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/half-leaf.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\half-leaf.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/leaf-2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\leaf-2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/leaf-3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\leaf-3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/slider-bg-shape.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\slider-bg-shape.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/slider-two-bg.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\slider-two-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/slider-two1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\slider-two1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/slider-two3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\slider-two3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/slider/two-lear.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\slider\two-lear.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/member1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\member1.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/member2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\member2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/member3.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\member3.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/member4.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\member4.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/team-member-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\team-member-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/team-profile-2.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\team-profile-2.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/team-profile-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\team-profile-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/team/team-profile.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\team\team-profile.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/video/cta-video-left.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\video\cta-video-left.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/video/cta-video-right.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\video\cta-video-right.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/about-bg.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\about-bg.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/about.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\about.jpg
+Content Type: image/jpeg
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/cta-widget.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\cta-widget.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/product1.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\product1.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/product2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\product2.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/product3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\product3.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/assets/images/widgets/product4.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\assets\images\widgets\product4.png
+Content Type: image/png
+
+Uri: https://amh767.github.io/fruiit/blog-details
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\blog-details.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/blog-grid
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\blog-grid.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/blog-standard
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\blog-standard.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/cart
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\cart.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/checkout
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\checkout.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/contact
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\contact.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/faqs
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\faqs.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/farmers
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\farmers.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/index2
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\index2.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/portfolio-details
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\portfolio-details.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/portfolio-fluid
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\portfolio-fluid.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/portfolio-grid
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\portfolio-grid.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/product-badyan
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\product-badyan.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/product-details
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\product-details.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/service-details
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\service-details.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/services
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\services.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/shop-grid
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\shop-grid.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/shop-left-sidebar
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\shop-left-sidebar.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/shop-orexi
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\shop-orexi.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/shop-right-sidebar
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/shop-specii
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\shop-specii.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/wishlist
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\wishlist.html
+Content Type: text/html
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/245-9c803e0ed0b46de3.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\245-9c803e0ed0b46de3.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/294-bf2e398b56e7ac91.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\294-bf2e398b56e7ac91.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/441-5e75872cc3fb11db.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\441-5e75872cc3fb11db.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/55-2cd9fb16f3d39fc1.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\55-2cd9fb16f3d39fc1.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/79-d7fc6b0cfa8e6e2b.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\79-d7fc6b0cfa8e6e2b.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/803-be4c4a4dd22cd1ea.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\803-be4c4a4dd22cd1ea.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/856-8cb830350aa25909.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\856-8cb830350aa25909.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/95-c2af510247fa686b.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\95-c2af510247fa686b.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/950-13717b2b767aa658.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\950-13717b2b767aa658.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/framework-7dc8a65f4a0cda33.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\framework-7dc8a65f4a0cda33.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/main-f80f91e382be933a.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\main-f80f91e382be933a.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/404-c79a37a51a87a524.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\404-c79a37a51a87a524.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/about-cc344aa1c64a4fc0.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\about-cc344aa1c64a4fc0.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/blog-details-a6b8e82a5d977a75.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\blog-details-a6b8e82a5d977a75.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/blog-grid-3556971d8c5133cf.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\blog-grid-3556971d8c5133cf.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/blog-standard-d96d36946147dd70.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\blog-standard-d96d36946147dd70.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/cart-988fcb06735f378d.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\cart-988fcb06735f378d.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/checkout-a7b5dea9f232b607.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\checkout-a7b5dea9f232b607.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/contact-ac06aec4096717d0.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\contact-ac06aec4096717d0.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/faqs-c98a32370a2337fd.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\faqs-c98a32370a2337fd.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/farmers-53df124255471203.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\farmers-53df124255471203.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/index-d1a9f94c9884dab6.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\index-d1a9f94c9884dab6.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/index2-c037887eeaa87079.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\index2-c037887eeaa87079.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/portfolio-details-b3a4ba8c58f92ca3.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\portfolio-details-b3a4ba8c58f92ca3.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/portfolio-fluid-c4a13e13ce786421.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\portfolio-fluid-c4a13e13ce786421.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/portfolio-grid-1fa131a1429cbb11.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\portfolio-grid-1fa131a1429cbb11.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/product-badyan-e8d1f1ef45cc01e7.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\product-badyan-e8d1f1ef45cc01e7.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/product-details-8f5877203b9fa242.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\product-details-8f5877203b9fa242.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/service-details-f745509057fa5892.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\service-details-f745509057fa5892.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/services-8da9772332c2fe6e.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\services-8da9772332c2fe6e.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/shop-grid-c199af169efae429.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\shop-grid-c199af169efae429.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/shop-left-sidebar-7f2ce090eab9f458.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\shop-left-sidebar-7f2ce090eab9f458.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/shop-orexi-9eaa9959d213771f.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\shop-orexi-9eaa9959d213771f.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/shop-right-sidebar-b4ed8d15ba0e812b.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\shop-right-sidebar-b4ed8d15ba0e812b.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/shop-specii-cf137adc3b823b11.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\shop-specii-cf137adc3b823b11.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/wishlist-1e51ae9d704bc224.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\wishlist-1e51ae9d704bc224.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/pages/_app-1b9f5a7c8f7b5b44.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\pages\_app-1b9f5a7c8f7b5b44.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/chunks/webpack-082d4aa4f368df35.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\chunks\webpack-082d4aa4f368df35.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/css/67bd6d846377229a.css
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\css\67bd6d846377229a.css
+Content Type: text/css
+
+Uri: https://amh767.github.io/fruiit/_next/static/Mmkwc_nanHCxAOWskRv4N/_buildManifest.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\Mmkwc_nanHCxAOWskRv4N\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://amh767.github.io/fruiit/_next/static/Mmkwc_nanHCxAOWskRv4N/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\amh767.github.io\fruiit\_next\static\Mmkwc_nanHCxAOWskRv4N\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Livvic:wght@400;500;600;700&family=Nunito&family=Shadows+Into+Light&display=swap
+File Name: C:\Downloaded Web Sites\amh767.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/livvic/v14/rnCp-x1S2hzjrlfnbw.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\livvic\v14\rnCp-x1S2hzjrlfnbw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/livvic/v14/rnCq-x1S2hzjrlff08Yesg.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\livvic\v14\rnCq-x1S2hzjrlff08Yesg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/livvic/v14/rnCq-x1S2hzjrlffm8Aesg.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\livvic\v14\rnCq-x1S2hzjrlffm8Aesg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/livvic/v14/rnCq-x1S2hzjrlfft8cesg.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\livvic\v14\rnCq-x1S2hzjrlfft8cesg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaM.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaM.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaM.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaM.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3iWkUHHAIjg752GT8Gl-1PKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUI.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUI.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUI.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUI.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUI.woff
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/shadowsintolight/v19/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+File Name: C:\Downloaded Web Sites\amh767.github.io\s\shadowsintolight\v19\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+Content Type: font/ttf
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/3D_Animation_Style_generate_a_cargo_courier_car_that_carries_f_3 (1).png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\3D_Animation_Style_generate_a_cargo_courier_car_that_carries_f_3 (1).png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Default_With_its_clean_lines_and_transparent_material_this_bag_1_5d55df6f-698a-4dae-8cbd-15d4e31b9d3a_0.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Default_With_its_clean_lines_and_transparent_material_this_bag_1_5d55df6f-698a-4dae-8cbd-15d4e31b9d3a_0.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/list/listL.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\list\listL.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/list/listR.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\list\listR.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/phone.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\phone.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/kolbas.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\kolbas.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/moloko.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\moloko.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/ovochi_i_frukti.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\ovochi_i_frukti.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/pryanosti.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\pryanosti.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/riba.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\riba.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/soleni.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\soleni.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/PhotoOtdelRemoveBack/suxofrukti HD.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\PhotoOtdelRemoveBack\suxofrukti HD.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/remove back/bigremoveimage/2.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\remove back\bigremoveimage\2.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/remove back/bigremoveimage/3.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\remove back\bigremoveimage\3.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/remove back/bigremoveimage/footer/footer1.jpg
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\remove back\bigremoveimage\footer\footer1.jpg
+Content Type: image/jpeg
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/remove back/bigremoveimage/footer/RemoveBackLogo0.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\remove back\bigremoveimage\footer\RemoveBackLogo0.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Specii/badyan.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Specii\badyan.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Specii/imbir.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Specii\imbir.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Specii/karica_moloti.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Specii\karica_moloti.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Specii/muskatni_orex.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Specii\muskatni_orex.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/Specii/shafran.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\Specii\shafran.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Alen44141/images/main/task.png
+File Name: C:\Downloaded Web Sites\amh767.github.io\Alen44141\images\main\task.png
+Content Type: image/png
+

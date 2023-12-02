@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/livvic/v14/rnCp-x1S2hzjrlfnbw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/livvic/v14/rnCq-x1S2hzjrlffm8Aesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/livvic/v14/rnCq-x1S2hzjrlfft8cesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/livvic/v14/rnCq-x1S2hzjrlff08Yesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/shadowsintolight/v19/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf) format('truetype');
+}
